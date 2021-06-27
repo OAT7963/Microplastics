@@ -20,7 +20,7 @@ This dataset consists of different journals from multiple field of studies rangi
 ### Figure 2. Topic-based similarity among microplastics literature. The LDA matrix of weight of each word within each topic was used to calculate the Euclidean distance to determine topic similarity of the microplastics research
 -----------------------------------
 
-![](r"Images/microplastics trends.png")
+![](Images/microplastics_trends.png)
 ### Figure 3. Publication output trends on microplasitcs literature by year. The bar colours corresponds to the five broad topic groups as identified using hierachical cluster analysis. 
 
 ![](Images/corr_plot.jpg)
