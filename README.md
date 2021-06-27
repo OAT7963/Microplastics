@@ -22,6 +22,7 @@ This dataset consists of different journals from multiple field of studies rangi
 
 ![](Images/microplastics_trends.png)
 ### Figure 3. Publication output trends on microplasitcs literature by year. The bar colours corresponds to the five broad topic groups as identified using hierachical cluster analysis. 
+-----------------------------------
 
 ![](Images/corr_plot.jpg)
 ### Figure 3. Knowledge gaps between identified topics in global microplastics literature. The higher the metric means high correlation to the words between the topics 
