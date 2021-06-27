@@ -12,7 +12,18 @@ I obtained the microplastics scientific articles from https://www.scopus.com/hom
 
 This dataset consists of different journals from multiple field of studies ranging from environmental science to material science. 
 
+![](Images/microplastics_facet.png)
+### Figure 1. The growth trends in microplastics literature per subject area. The growth of microplastics journal literature published for each subject area in the micropastics global literature from 2015 to 2019
+-----------------------------------
+
+![](Images/microplastics_hierachical.png)
+### Figure 2. Topic-based similarity among microplastics literature. The LDA matrix of weight of each word within each topic was used to calculate the Euclidean distance to determine topic similarity of the microplastics research
+-----------------------------------
+
 ![](Images/corr_plot.jpg)
+### Figure 3. Knowledge gaps between identified topics in global microplastics literature. The higher the metric means high correlation to the words between the topics 
+-----------------------------------
+
 
 # Conclusion
 
