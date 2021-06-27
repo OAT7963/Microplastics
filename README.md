@@ -33,4 +33,4 @@ Text extraction and processing were performed in this project. Text analysis wer
 
 I will use Poisson generalized linear mixed model to determine the popular topics and non popular topics in this study's time period. Was thinking of doing sentiment analysis, not too sure if scientific papers will have too much informtion. These tasks will be conduct in the future and will update this repository. 
 
-I will try and explore unsupervised ML (k-means clustering) for my dataset in the near future 
+<!-- I will try and explore unsupervised ML (k-means clustering) for my dataset in the near future  -->
