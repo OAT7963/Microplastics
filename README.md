@@ -25,7 +25,7 @@ This dataset consists of different journals from multiple field of studies rangi
 -----------------------------------
 
 ![](Images/corr_plot.jpg)
-### Figure 3. Knowledge gaps between identified topics in global microplastics literature. The higher the metric means high correlation to the words between the topics 
+### Figure 4. Knowledge gaps between identified topics in global microplastics literature. The higher the metric means high correlation to the words between the topics 
 -----------------------------------
 
 
